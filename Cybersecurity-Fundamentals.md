@@ -1,6 +1,6 @@
 # Cybersecurity Fundamentals: Foundational Concepts, Threat Types and Security Frameworks
 
-> **Portfolio learning resource** · Foundational cybersecurity · NIST
+> · Foundational cybersecurity · NIST
 > CSF 2.0 · MITRE ATT&CK
 
 ## Overview
@@ -2006,7 +2006,3 @@ identifiers, and version changes.
     defense.
 
 ------------------------------------------------------------------------
-
-*Document title: Cybersecurity Fundamentals: Foundational Concepts,
-Threat Types and Security Frameworks*\
-*Suggested repository path: `Cybersecurity-Fundamentals.md`*
