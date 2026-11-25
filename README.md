@@ -259,5 +259,6 @@ The following official resources provide additional information on the concepts 
 
 **Project Category:** Cybersecurity Fundamentals  
 **Focus Areas:** Information Security, Threat Awareness, Security Principles, and Cybersecurity Frameworks  
-**Documentation Format:** Markdown, PDF
+**Documentation Format:** Markdown, Pdf
+
 **Purpose:** Foundational cybersecurity learning and knowledge development
